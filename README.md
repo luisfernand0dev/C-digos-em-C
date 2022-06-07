@@ -1,2 +1,2 @@
-# C-digos-em-C
+# Codigos-em-C
 Meu desenvolvimento em C na faculdade de Engenharia de Software 
